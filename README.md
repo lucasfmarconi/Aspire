@@ -1,0 +1,2 @@
+# Aspire
+ POC Dotnet Aspire
